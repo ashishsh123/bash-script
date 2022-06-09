@@ -2,4 +2,4 @@
 
 name = $1
 
-echo "Hi Ashish $name"
+echo "Hi $name"
